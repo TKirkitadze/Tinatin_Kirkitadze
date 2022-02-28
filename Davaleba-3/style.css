@@ -1,61 +1,7 @@
-.main{
-    display: flex;
-}
-.tina img{
-    height: 400px;
-    width: 400px;
-}
-
-.tina1{
-    padding: 20px;
-}
-
-.tina1 p{
-    font-size: 20px;
-    color:gray;
-    font-weight: 500;
-    font-family: 'Times New Roman', Times, serif;
-    line-height: 40px;
-    align-items: center;
-    justify-content: center;
+p{
+    font-size: 30px;
+    font-weight: bold;
     font-style: italic;
-}
-
-.tina2 p{
-    font-size: 20px;
-    color: rgb(111, 64, 172);
-    font-weight: 500;
-    font-family: 'Courier New', Courier, monospace;
-    line-height: 30px;
-    align-items: center;
-    justify-content: center;
-    font-style: normal;
-}
-
-.alfa{
-    height: 200px;
-    width: 200px;
-    border-radius: 20px;
-}
- .alfa1{
-     background-color: rgba(20, 137, 216, 0.438)
- }
-
- .alfa2{
-    background-color:rgb(250, 209, 134);
-}
-
-.alfa3{
-    background-color: rgb(226, 219, 219);
-}
-
-.alfa4{
-    background-color:black
-}
-
-.main1{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 50px;
-    margin-bottom: 50px;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
